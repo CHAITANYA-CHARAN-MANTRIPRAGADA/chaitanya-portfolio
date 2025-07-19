@@ -50,7 +50,7 @@ My personal webpage portfolio
   <header>
     <h1>Chaitanya Charan Mantripragada</h1>
     <p>Email: <a href="mailto:chaitanya7032@gmail.com">chaitanya7032@gmail.com</a></p>
-    <p>Phone: +1-216-600-6902 | WhatsApp: +91 7032798975</p>
+    <p>Phone: +91 7032798975</p>
     <p><a href="https://www.linkedin.com/in/chaitanya-charan-mantripragada-3a3665156/" target="_blank">LinkedIn Profile</a></p>
   </header>
   <div class="container">
